@@ -1,0 +1,320 @@
+/
+total 3861604
+drwxr-xr-x  23 root root       4096 Mar 17 16:12 .
+drwxr-xr-x  23 root root       4096 Mar 17 16:12 ..
+lrwxrwxrwx   1 root root          7 Apr 22  2024 bin -> usr/bin
+drwxr-xr-x   2 root root       4096 Feb 26  2024 bin.usr-is-merged
+drwxr-xr-x   3 root root       4096 Apr 30 03:53 boot
+dr-xr-xr-x   2 root root       4096 Aug  6  2025 cdrom
+drwxr-xr-x  19 root root       4360 May 18 05:44 dev
+drwxr-xr-x 140 root root      12288 Apr 30 03:53 etc
+drwxr-xr-x   3 root root       4096 Mar 17 16:14 home
+lrwxrwxrwx   1 root root          7 Apr 22  2024 lib -> usr/lib
+drwxr-xr-x   2 root root       4096 Apr  8  2024 lib.usr-is-merged
+lrwxrwxrwx   1 root root          9 Apr 22  2024 lib64 -> usr/lib64
+drwx------   2 root root      16384 Mar 17 16:07 lost+found
+drwxr-xr-x   3 root root       4096 Mar 17 16:16 media
+drwxr-xr-x   2 root root       4096 Aug  5  2025 mnt
+drwxr-xr-x   2 root root       4096 Aug  5  2025 opt
+dr-xr-xr-x 418 root root          0 May 18 05:44 proc
+drwx------   6 root root       4096 Apr  2 15:52 root
+drwxr-xr-x  37 root root        900 May 18 06:00 run
+lrwxrwxrwx   1 root root          8 Apr 22  2024 sbin -> usr/sbin
+drwxr-xr-x   2 root root       4096 Mar 31  2024 sbin.usr-is-merged
+drwxr-xr-x  15 root root       4096 Mar 24 16:25 snap
+drwxr-xr-x   2 root root       4096 Aug  5  2025 srv
+-rw-------   1 root root 3954180096 Mar 17 16:12 swap.img
+dr-xr-xr-x  13 root root          0 May 18 05:44 sys
+drwxrwxrwt  20 root root       4096 May 18 06:00 tmp
+drwxr-xr-x  12 root root       4096 Aug  5  2025 usr
+drwxr-xr-x  14 root root       4096 Mar 17 16:13 var
+--- /etc ---
+/etc
+ModemManager
+NetworkManager
+PackageKit
+UPower
+X11
+adduser.conf
+alsa
+alternatives
+anacrontab
+apg.conf
+apm
+apparmor
+apparmor.d
+apport
+apt
+avahi
+bash.bashrc
+bash_completion
+bash_completion.d
+bindresvport.blacklist
+binfmt.d
+bluetooth
+brlapi.key
+brltty
+brltty.conf
+ca-certificates
+ca-certificates.conf
+chatscripts
+cloud
+colord
+console-setup
+cracklib
+credstore
+credstore.encrypted
+cron.d
+cron.daily
+cron.hourly
+cron.monthly
+cron.weekly
+cron.yearly
+crontab
+cups
+cupshelpers
+dbus-1
+dconf
+debconf.conf
+debian_version
+debuginfod
+default
+deluser.conf
+depmod.d
+dhcp
+dhcpcd.conf
+dictionaries-common
+dpkg
+e2scrub.conf
+emacs
+environment
+environment.d
+ethertypes
+fonts
+fprintd.conf
+fstab
+fuse.conf
+fwupd
+gai.conf
+gdb
+gdm3
+geoclue
+ghostscript
+glvnd
+gnome
+gnome-remote-desktop
+gnutls
+gprofng.rc
+groff
+group
+group-
+grub.d
+gshadow
+gshadow-
+gss
+gtk-2.0
+gtk-3.0
+hdparm.conf
+host.conf
+hostname
+hosts
+hosts.allow
+hosts.deny
+hp
+ifplugd
+init
+init.d
+initramfs-tools
+inputrc
+insserv.conf.d
+ipp-usb
+iproute2
+issue
+issue.net
+kernel
+kerneloops.conf
+krb5.conf.d
+ld.so.cache
+ld.so.conf
+ld.so.conf.d
+ldap
+legal
+libao.conf
+libaudit.conf
+libblockdev
+libibverbs.d
+libnl-3
+libpaper.d
+locale.alias
+locale.conf
+locale.gen
+localtime
+logcheck
+login.defs
+logrotate.conf
+logrotate.d
+lsb-release
+machine-id
+magic
+magic.mime
+mailcap
+mailcap.order
+manpath.config
+mime.types
+mke2fs.conf
+modprobe.d
+modules
+modules-load.d
+mtab
+nanorc
+netconfig
+netplan
+network
+networkd-dispatcher
+networks
+newt
+nftables.conf
+nsswitch.conf
+openvpn
+opt
+os-release
+pam.conf
+pam.d
+papersize
+passwd
+passwd-
+pcmcia
+perl
+pki
+plymouth
+pm
+pnm2ppa.conf
+polkit-1
+ppp
+printcap
+profile
+profile.d
+protocols
+pulse
+python3
+python3.12
+rc0.d
+rc1.d
+rc2.d
+rc3.d
+rc4.d
+rc5.d
+rc6.d
+rcS.d
+resolv.conf
+rmt
+rpc
+rsyslog.conf
+rsyslog.d
+rygel.conf
+sane.d
+security
+selinux
+sensors.d
+sensors3.conf
+services
+sgml
+shadow
+shadow+
+shadow-
+shells
+skel
+snmp
+speech-dispatcher
+ssh
+ssl
+sssd
+subgid
+subgid-
+subuid
+subuid-
+sudo.conf
+sudo_logsrvd.conf
+sudoers
+sudoers.d
+supercat
+sysctl.conf
+sysctl.d
+sysstat
+systemd
+terminfo
+thermald
+timezone
+tmpfiles.d
+ubuntu-advantage
+ucf.conf
+udev
+udisks2
+ufw
+update-manager
+update-motd.d
+update-notifier
+usb_modeswitch.conf
+usb_modeswitch.d
+vconsole.conf
+vim
+vmware-tools
+vtrgb
+vulkan
+wgetrc
+wpa_supplicant
+xattr.conf
+xdg
+xml
+zsh_command_not_found
+--- /var ---
+/var
+backups
+cache
+crash
+lib
+local
+lock
+log
+mail
+metrics
+opt
+run
+snap
+spool
+tmp
+--- /home ---
+/home
+total 12
+drwxr-xr-x  3 root    root    4096 Mar 17 16:14 .
+drwxr-xr-x 23 root    root    4096 Mar 17 16:12 ..
+drwxr-x--- 16 mengly2 mengly2 4096 May 18 05:52 mengly2
+--- /tmp ---
+/tmp
+total 96
+drwxrwxrwt 20 root    root    4096 May 18 06:00 .
+drwxr-xr-x 23 root    root    4096 Mar 17 16:12 ..
+drwxrwxrwt  2 root    root    4096 May 18 05:45 .ICE-unix
+-r--r--r--  1 mengly2 mengly2   11 May 18 05:45 .X0-lock
+-r--r--r--  1 mengly2 mengly2   11 May 18 05:45 .X1-lock
+-r--r--r--  1 gdm     gdm       11 May 18 05:44 .X1024-lock
+-r--r--r--  1 gdm     gdm       11 May 18 05:44 .X1025-lock
+drwxrwxrwt  2 root    root    4096 May 18 05:45 .X11-unix
+drwxrwxrwt  2 root    root    4096 May 18 05:44 .XIM-unix
+drwxrwxrwt  2 root    root    4096 May 18 05:44 .font-unix
+drwxrwxrwt  2 root    root    4096 May 18 05:44 VMwareDnD
+drwx------  4 root    root    4096 May 18 05:45 snap-private-tmp
+drwx------  3 root    root    4096 May 18 05:44 systemd-private-e642cfa9b2014c298ef1b091d82b4bcd-ModemManager.service-1ZfVYv
+drwx------  3 root    root    4096 May 18 05:44 systemd-private-e642cfa9b2014c298ef1b091d82b4bcd-colord.service-wKhlSE
+drwx------  3 root    root    4096 May 18 06:00 systemd-private-e642cfa9b2014c298ef1b091d82b4bcd-fwupd.service-OTsCWY
+drwx------  3 root    root    4096 May 18 05:44 systemd-private-e642cfa9b2014c298ef1b091d82b4bcd-polkit.service-iGyxmm
+drwx------  3 root    root    4096 May 18 05:44 systemd-private-e642cfa9b2014c298ef1b091d82b4bcd-power-profiles-daemon.service-vx9wKU
+drwx------  3 root    root    4096 May 18 05:44 systemd-private-e642cfa9b2014c298ef1b091d82b4bcd-switcheroo-control.service-pJneYE
+drwx------  3 root    root    4096 May 18 05:44 systemd-private-e642cfa9b2014c298ef1b091d82b4bcd-systemd-logind.service-utpO5d
+drwx------  3 root    root    4096 May 18 05:44 systemd-private-e642cfa9b2014c298ef1b091d82b4bcd-systemd-oomd.service-cVXwVD
+drwx------  3 root    root    4096 May 18 05:44 systemd-private-e642cfa9b2014c298ef1b091d82b4bcd-systemd-resolved.service-EjnGUi
+drwx------  3 root    root    4096 May 18 05:44 systemd-private-e642cfa9b2014c298ef1b091d82b4bcd-systemd-timesyncd.service-TrPKiH
+drwx------  3 root    root    4096 May 18 05:44 systemd-private-e642cfa9b2014c298ef1b091d82b4bcd-upower.service-6wwkpS
+drwx------  2 root    root    4096 May 18 05:44 vmware-root_867-3988621819
+--- Home (~) ---
+/home/mengly2
